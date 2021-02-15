@@ -1,11 +1,10 @@
-.header{
-    width: auto;
-    height: 100px;
-    background-color: greenyellow;
-    text-align: center;
-    padding: 50px;
-    font-size: 30px;
-    font-weight: bold;
-    color: white;
-    
+.header {
+  width: auto;
+  height: 100px;
+  background-color: greenyellow;
+  text-align: center;
+  padding: 50px;
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
 }
